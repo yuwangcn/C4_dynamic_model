@@ -18,15 +18,20 @@ Input variables
 
 Photosynthetic parameters
 
+
 Input file 1: Input_parameter_M.txt
 
+
 Environmental parameters
+
 
 Input file 2: Input_parameter_Env.txt
 
 
 Running
+
 Simulating the induction of CO2 uptake rate: Run RAC4leafMetaDrive_Alone.m
+
 Sensitivity analysis: Run Sensitivity.m
 
 
