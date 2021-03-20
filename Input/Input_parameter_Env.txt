@@ -1,0 +1,8 @@
+Parameters	Value
+Temperature	28
+CO2_air	410
+O2_air	210
+RH	0.65
+Radiation_NIR	0
+Radiation_LW	0
+Radiation_PAR	1800

@@ -1,0 +1,13 @@
+Parameters	Original values
+slope	4.53
+intercept	0.02
+ki	0.277
+kd	0.071
+Vpmax	120
+Vcmax	60
+taoRubisco	5
+FactorVP	1
+FactorVC	0.85
+RP	4.00E-05
+Rd	1
+MeasuredTemp	25
