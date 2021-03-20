@@ -55,9 +55,9 @@ Radiation_PAR|	Photosynthetic active radiation|	µmol m-2 s-1
 
 Running
 ---
-Simulating the induction of CO2 uptake rate: Run RAC4leafMetaDrive_Alone.m
+Simulating the induction of CO2 uptake rate: run ./Code/RAC4leafMetaDrive_Alone.m
 
-Sensitivity analysis: Run Sensitivity.m
+Sensitivity analysis: run ./Code/Sensitivity.m
 
 
 Versioning
