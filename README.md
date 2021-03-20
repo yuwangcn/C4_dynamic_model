@@ -19,11 +19,7 @@ Input variables
 **Photosynthetic parameters**
 
 
-Input file 1: 
-
-Input_parameter_M.txt or
-
-Input_parameter_O.txt
+Input file 1:   Input_parameter_M.txt or Input_parameter_O.txt
 
 Parameters|	Definition|	Unit|
 ---- | ----- | ------ 
@@ -44,8 +40,7 @@ Rd|	Mitochondria respiration|	µmol m-2 s-1
 **Environmental parameters**
 
 
-Input file 2: 
-Input_parameter_Env.txt
+Input file 2:   Input_parameter_Env.txt
 Parameters|	Definition|	Unit|
 ---- | ----- | ------ 
 Temperature|	Air temperature|	°C
