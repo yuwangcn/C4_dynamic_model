@@ -8,7 +8,7 @@ This model is written in matlab (R2019a)
 
 Reference 
 ---
-Wang Y, Chen KX, Long SP. (2021) Toward a Dynamic Photosynthesis Model to Guide the Yield Improvement in C4 Crops. The Plant Journal.
+Wang Y, Chan KX, Long SP. (2021) Toward a Dynamic Photosynthesis Model to Guide the Yield Improvement in C4 Crops. The Plant Journal.
 
 Wang Y, Bräutigam A, Weber APM, Zhu X-G (2014a) Three distinct biochemical subtypes of C4 photosynthesis? – A modeling analysis. Journal of Experimental Botany 65(13):3567-78.
 
