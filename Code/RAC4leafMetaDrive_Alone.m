@@ -58,6 +58,7 @@ global VPRKsen;
 global Jmaxsen;
 global gsxsen;
 global Jsen;
+global V6sen;
 VPPDKsen=1;
 VMDHsen=1;
 VMEsen=1;
@@ -69,6 +70,7 @@ Jmaxsen=1;
 Jsen=1;
 Vexsen=1;
 gsxsen=1;
+V6sen=1;
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %Relative humidity setting
 %Saturated water vapor: ESatweather = 0.611 * exp(17.502 * WeatherTemperature / (WeatherTemperature + 240.97));
